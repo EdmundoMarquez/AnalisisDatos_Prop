@@ -12,7 +12,7 @@ https://docs.github.com/es/repositories/creating-and-managing-repositories/cloni
 https://aprendegit.com/fork-de-repositorios-para-que-sirve/
 
 ## Requisitos
-1. Instalar la extensión de Python desde VSCode
-2. Instalar la extensión de Jupyter desde VSCode
+1. Instalar la extensión de Python desde VSCode (https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+2. Instalar la extensión de Jupyter desde VSCode (https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 3. Abrir los notebooks para revisar cada sesión (los que tienen extensión .ipynb)
 
